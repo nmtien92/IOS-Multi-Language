@@ -1,7 +1,7 @@
 # IOS-Multi-Language
 IOS Multi Language: Automatically detect language that iOS device, faster and easier to use than the traditional way.
-<h2>Usage</h2>
 
+<h2>Installation</h2>
 <pre>
 <code>
 Config File: "Languages.json"
@@ -34,10 +34,17 @@ Config File: "Languages.json"
 
 add more files into project: (Utils.h, Utils.m, R.h, R.m)
 
+<h2>Usage</h2>
 <pre>
 <code>
 R *mContext = [[R alloc] init];
 NSString *app_name = [mContext getString:@"test"];
 NSLog(@"%@", app_name);
+</code>
+</pre>
+
+<pre>
+<code>
+if you have any problems, please contact email: nmtien92@outlook.com
 </code>
 </pre>
