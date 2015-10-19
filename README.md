@@ -40,7 +40,7 @@ add more files into project: (Utils.h, Utils.m, R.h, R.m)
 <pre>
 <code>
 R *mContext = [[R alloc] init];
-NSString *app_name = [mContext getString:@"test"];
+NSString *app_name = [mContext getString:@"app_name"];
 NSLog(@"%@", app_name);
 </code>
 </pre>
