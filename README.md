@@ -43,6 +43,7 @@ NSLog(@"%@", app_name);
 </code>
 </pre>
 
+<h2>Contacts</h2>
 <pre>
 <code>
 if you have any problems, please contact email: nmtien92@outlook.com
