@@ -2,9 +2,10 @@
 IOS Multi Language: Automatically detect language that iOS device, faster and easier to use than the traditional way.
 
 <h2>Installation</h2>
+Config File: "Languages.json", add more languages and key and values of string. 
+<a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">List of ISO 639-1 codes</a>
 <pre>
 <code>
-Config File: "Languages.json"
 {
     "created": "10/18/15",
     "author": "nmtien92",
