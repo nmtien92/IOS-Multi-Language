@@ -28,7 +28,8 @@ Config File: "Languages.json", add more languages and key and values of string. 
         "jp": {
             "hello_world": "こんにちは",
             "app_name": "マップ"
-        }
+        },
+        ....
     }
 }
 </code>
