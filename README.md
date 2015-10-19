@@ -1,8 +1,9 @@
 # IOS-Multi-Language
 IOS Multi Language: Automatically detect language that iOS device, faster and easier to use than the traditional way.
 
-<h2>Installation</h2>
-Config File: "Languages.json", add more languages and key and values of string. 
+<h2>Installation</h2> 
+<a href="https://www.dropbox.com/s/f6e01zx4yr35i67/IOS%20Multi%20Language.zip?dl=0">Download example project</a><br>
+Config File: "Languages.json", add more languages and key and values of string. <br>
 <a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">List of ISO 639-1 codes</a>
 <pre>
 <code>
